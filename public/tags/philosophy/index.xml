@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>philosophy on treadings.net</title>
+    <link>https://treadings.net/tags/philosophy/</link>
+    <description>Recent content in philosophy on treadings.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Dec 2022 22:31:10 +0000</lastBuildDate><atom:link href="https://treadings.net/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking in the Open</title>
+      <link>https://treadings.net/posts/thinking-in-the-open/</link>
+      <pubDate>Mon, 05 Dec 2022 22:31:10 +0000</pubDate>
+      
+      <guid>https://treadings.net/posts/thinking-in-the-open/</guid>
+      <description>I have a whole lot of projects that don&amp;rsquo;t go anywhere, and some that do.</description>
+    </item>
+    
+  </channel>
+</rss>
