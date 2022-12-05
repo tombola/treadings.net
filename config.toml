@@ -1,0 +1,4 @@
+baseURL = 'https://treadings.net'
+languageCode = 'en'
+title = 'treadings.net'
+theme = "congo"
