@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on treadings.net</title>
-    <link>https://treadings.net/categories/</link>
+    <link>https://peppy-taiyaki-a2e6b6.netlify.app/categories/</link>
     <description>Recent content in Categories on treadings.net</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://treadings.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://peppy-taiyaki-a2e6b6.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
